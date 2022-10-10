@@ -47,4 +47,3 @@
 #      print('x < 0 and y < 0')
 # elif i == 4:
 #      print('x > 0 and y < 0')
-
