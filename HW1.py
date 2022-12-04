@@ -54,10 +54,10 @@
 # -А (3,6); В (2,1) -> 5,09
 # -А (7,-5); В (1,-1) -> 7,21
 
-A = input("Введите x и y: ").split(" ")
-B = input("Введите x и y: ").split(" ")
+# A = input("Введите x и y: ").split(" ")
+# B = input("Введите x и y: ").split(" ")
 
-print(A)
-print (B)
+# print(A)
+# print (B)
 
-print(float((int(B[0])-int(A[0]))**2 + (int(B[1])-int(A[1]))**2)**(1/2))
+# print(float((int(B[0])-int(A[0]))**2 + (int(B[1])-int(A[1]))**2)**(1/2))3
